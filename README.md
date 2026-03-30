@@ -24,11 +24,19 @@
 
 ## セットアップ
 
+
+
 ### 必要なもの
 
 - [Bun](https://bun.sh/)
 - LLM APIキー（以下のいずれか1つ）
 - [EDINET DB](https://edinetdb.jp) APIキー
+
+- ## Windows ユーザー向け
+
+Git やターミナルを触ったことがない方向けの詳しいインストールガイドはこちら：
+→ [Windows 初心者向けインストールガイド](docs/INSTALL_WINDOWS.md)
+
 
 ### 環境変数
 
